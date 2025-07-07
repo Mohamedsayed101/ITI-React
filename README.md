@@ -46,6 +46,6 @@ Make sure you have **Node.js** and **npm** installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ITI-React.git
+   git clone https://github.com/Mohamedsayed101/ITI-React.git
 
 
